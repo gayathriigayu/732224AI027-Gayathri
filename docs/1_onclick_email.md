@@ -1,0 +1,11 @@
+- Signin into n8n
+- Create a project
+- Shedule Trigger
+- Mintues
+- Create gmail
+- Send message
+- add credential
+- Sign in with google
+- Give your mail id
+- # Screenshot
+- <img width="1593" height="573" alt="image" src="https://github.com/user-attachments/assets/5ea82929-f484-4357-8aef-9c3ab19c8539" />
