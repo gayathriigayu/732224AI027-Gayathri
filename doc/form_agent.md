@@ -1,0 +1,15 @@
+- sigin into n8n
+- create a  new workflow
+- n8n form
+- Add trigger
+- Give the file name as "Contact us"or something else that you need
+- Add Form Elements full name, Email, Topic
+- Add Google Gemini Chat Model
+- Give Execute step
+- To process this using AI agent
+- Use your source of prompt as define below,then drag your topic
+- Add Gemini Chatbot with this
+- Add gmail -send message ,to know whom the user need to mail
+- Drag Drop your topic,mail address and the output
+- Atlast the mail receive  3 rd
+<img width="1204" height="598" alt="image" src="https://github.com/user-attachments/assets/abce7635-8178-4494-bb88-6872bdee4198" />
