@@ -1,0 +1,17 @@
+- Signin into n8n
+- Create a project
+- Chat Trigger
+- AI Agent
+- Chat Model
+- Google Gemini Chat Model
+- Create New credential
+- Chrome
+- Gemini api
+- Google AI studio
+- Get api key
+- Create project
+- Default Gemini
+- Create api Key
+- Copy the key
+- Paste in the Google Gemini Chat Model
+<img width="1495" height="747" alt="image" src="https://github.com/user-attachments/assets/afc1c5c4-7c35-44db-bd08-417dc04aa9f2" />
