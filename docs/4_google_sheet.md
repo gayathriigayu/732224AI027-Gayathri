@@ -1,0 +1,15 @@
+- Signin into n8n
+- Create a form
+- Give a title and add Form elements Full Name , Email, Role, Hobby
+- Execute and fill the form
+- Create a Google Sheet of n8n with the same elements as a header
+- Create a new node google Sheet Append row in Sheet
+- Credential to connect with a account
+- in Document List select the Google Sheet n8n and select the sheet
+- in value send, paste the values copied from the form sumbmission,then execute it
+- Add  google sheet trigger one row added
+- Add a gmail Send a message
+- fill the boxes To, subject, Message then execute it
+- Execute Workflow
+- <img width="1072" height="418" alt="image" src="https://github.com/user-attachments/assets/0b9525ac-3a85-405e-82b8-412d66d3f8a9" />
+
