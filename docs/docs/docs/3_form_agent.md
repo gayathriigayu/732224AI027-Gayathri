@@ -12,3 +12,5 @@
 - Add gmail -send message ,to know whom the user need to mail
 - Drag Drop your topic,mail address and the output
 - Atlast the mail receive  3 rd
+- 
+<img width="1204" height="598" alt="Screenshot 2025-11-22 121229" src="https://github.com/user-attachments/assets/ff544e3b-f62a-4986-a072-00ea40d644eb" />
