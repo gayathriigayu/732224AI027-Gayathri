@@ -1,0 +1,5 @@
+- Create a Chat trigger
+- Sign in with google
+- Create a AI Agent
+- Add in Chat model of Google Gemini Model
+-  Ai<img width="954" height="608" alt="Screenshot 2025-11-23 061024" src="https://github.com/user-attachments/assets/15c715f0-d973-458f-affd-75b44cfd6f1a" />
